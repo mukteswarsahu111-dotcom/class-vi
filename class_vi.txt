@@ -1,2 +1,2 @@
 Python is a Programming Language.
-
+ML is used for predective Analytics
